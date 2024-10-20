@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLpXPX6+Bv+VGZI1zyAcA+/3h5Idz9a8wTbj54KTDGPdSQukVGyV2HwqYyCexVUMTIa0LNoeXr1GRkxus5PwtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shadowdev\\Desktop\\photosynthesis\\photosynthesis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shadowdev\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\shadowdev\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
